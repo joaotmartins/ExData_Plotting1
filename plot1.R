@@ -1,5 +1,5 @@
 ## Reads the "Individual household electric power consumption Data Set" from the
-## UC Irvine ML repository.
+## UC Irvine ML repository, and plots a histogram of global active power.
 
 library(data.table)
 library(dplyr)
